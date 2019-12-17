@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a43d1512-12fb-48e3-a83d-bd615b1cecb2" name="Default Changelist" comment="全結合層のマスクを追加">
+      <change afterPath="$PROJECT_DIR$/.idea/dynamic_network_surgery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/channel_mask_generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V5l0lASBt4Qw6vMMvdwKcPuZO3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a43d1512-12fb-48e3-a83d-bd615b1cecb2" name="Default Changelist" comment="" />
+      <created>1576550615252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576550615252</updated>
+    </task>
+    <task id="LOCAL-00001" summary="全結合層のマスクを追加">
+      <created>1576551611965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576551611965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全結合層のマスクを追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="全結合層のマスクを追加" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="549" width="762" height="820" key="CommitChangelistDialog2" timestamp="1576552777117">
+      <screen x="0" y="369" width="1080" height="1551" />
+    </state>
+    <state x="154" y="549" width="762" height="820" key="CommitChangelistDialog2/1080.342.1920.1080/0.369.1080.1551@0.369.1080.1551" timestamp="1576552777117" />
+    <state x="317" y="700" width="445" height="518" key="FileChooserDialogImpl" timestamp="1576552349251">
+      <screen x="0" y="369" width="1080" height="1551" />
+    </state>
+    <state x="317" y="700" width="445" height="518" key="FileChooserDialogImpl/1080.342.1920.1080/0.369.1080.1551@0.369.1080.1551" timestamp="1576552349251" />
+    <state x="135" y="679" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1576552778366">
+      <screen x="0" y="369" width="1080" height="1551" />
+    </state>
+    <state x="135" y="679" width="800" height="559" key="Vcs.Push.Dialog.v2/1080.342.1920.1080/0.369.1080.1551@0.369.1080.1551" timestamp="1576552778366" />
+  </component>
+</project>
